@@ -1,6 +1,8 @@
 # FriendTech_Fast_Buy
 Simple python script to quickly buy shares on Friend.Tech from console and be able to access chats in app from the FT account associated to the imported wallet
 
+
+
 ### Prerequisites
 
 **Environment**: Python 3.x
@@ -86,3 +88,6 @@ Install with `pip install python-dotenv web3`
 
 
 **If the user declines**, display "Purchase canceled".
+
+
+**Disclaimer: Please interact with the software at your own risk, I am not responsible for any financial loss or any downside caused by it. I cannot guarantee any results from it. The software is not an offering from me. I share no responsibility for the usage and outcome of this now open-sourced software.**
